@@ -4,18 +4,6 @@
   padding: 2rem;
   text-align: center;
 }
-/* App.css */
-
-.app-container {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh; /* Make it fill full height */
-  padding: 20px;
-  gap: 20px; /* Optional: adds space between elements */
-  font-family: Arial, sans-serif;
-}
-
-/* Optional: You can also style inner components with flex */
 
 .logo {
   height: 6em;
